@@ -1,0 +1,17 @@
+#canvas{
+    width: 600px;
+    height: 600px;
+    border: 2px solid #2bbbad;
+    display: block;
+    margin:auto;
+}
+#canvas2{
+    width: 600px;
+    height: 400px;
+    border: 2px solid #2bbbad;
+    display: block;
+    margin:auto;
+}
+.container{
+    margin-top: 50px;
+}
